@@ -12,8 +12,7 @@ Use Cases:
 * Collaborative Work: Teams can share project resources, documents, and data securely, facilitating collaboration across different locations.
 
 ### Project Architecture:
-![Screenshot 2024-11-16 215631](https://github.com/user-attachments/assets/b28e0985-5bed-4053-9978-e187d0897b87)
-
+![Screenshot 2024-11-16 215631](https://github.com/user-attachments/assets/8ddc65b0-fc41-49f6-899d-9ed01ac47978)
 
 
 ### Steps to Build the Project:
